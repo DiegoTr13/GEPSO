@@ -3,7 +3,7 @@ Code used for the article "Gradient Enhanced Particle Swarm Optimization Algorit
 
 📁 Folder Structure
 
-Matlab_Code/
+`Matlab_Code/`
 This folder contains all the key MATLAB scripts required to run the GE-PSO algorithm:
 
 | File               | Description |
